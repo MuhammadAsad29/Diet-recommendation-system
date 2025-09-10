@@ -21,7 +21,7 @@ It takes user input such as age, weight, height, and activity level, then sugges
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MuhammadAsad29/Diet-recommendation-system
+   git clone https://github.com/MuhammadAsad29/Diet-recommendation-system.git
    cd diet-recommender
    ```
 
